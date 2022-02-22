@@ -1,0 +1,39 @@
+{
+  "menuOptions":[
+    {
+      "type": "list",
+      "name": "opt",
+      "message": "What would you like to do?",
+      "choices": [
+        {
+          "value": "1",
+          "name": "1. Create todo"
+        },
+        {
+          "value": "2",
+          "name": "2. List todo"
+        },
+        {
+          "value": "3",
+          "name": "3. List completed todo"
+        },
+        {
+          "value": "4",
+          "name": "4. List pending todo"
+        },
+        {
+          "value": "5",
+          "name": "5. Complete todo"
+        },
+        {
+          "value": "6",
+          "name": "6. Delete todo"
+        },
+        {
+          "value": "0",
+          "name": "7. Exit"
+        }
+      ]
+    }
+  ]
+}
